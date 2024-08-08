@@ -19,6 +19,12 @@
 <tr border="none">
   <td width="30%" align="center">
     <p align="center">
+     <a href="https://foothouse.vercel.app" title="Go to site">
+        <img align="center" width=100% src="https://juancruzparise.vercel.app/assets/img/foothouse.png" alt="GoEmigro" /></a>
+      </p>
+  </td>
+  <td width="30%" align="center">
+    <p align="center">
      <a href="https://goemigro.com" title="Go to site">
         <img align="center" width=100% src="https://juancruzparise.vercel.app/assets/img/goemigro-web.png" alt="GoEmigro" /></a>
       </p>
@@ -29,13 +35,15 @@
         <img align="center" width=100% src="https://juancruzparise.vercel.app/assets/img/bolsilloargento.png" alt="Bolsillo Argento" /></a>
       </p>
   </td>
+  </tr>
+  <tr border="none">
   <td width="30%" align="center">
     <p align="center">
      <a href="https://thefrothmedia.com" title="Go to site">
         <img align="center" width=100% src="https://juancruzparise.vercel.app/assets/img/the-froth-media.png" alt="The Froth Media" /></a>
       </p>
   </td>
-</tr>
+  </tr> 
 </table>
 <p align="center">
    <a href="https://juancruzparise.vercel.app" target="_blank">Portfolio</a>
